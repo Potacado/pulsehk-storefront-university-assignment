@@ -19,12 +19,14 @@ This system successfully delivers the key objectives outlined in our Project Cha
 ## How to Run Locally
 
 ### 1. Storefront (Frontend)
+```bash
 cd clothing-store-storefront
 npm install
 npm run dev
 The storefront will be available at http://localhost:8001
 
 ### 2. Admin & Core Services (Backend)
+```bash
 cd clothing-store
 npm install
 npm run start
