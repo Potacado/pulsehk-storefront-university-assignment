@@ -24,10 +24,11 @@ cd clothing-store-storefront
 npm install
 npm run dev
 The storefront will be available at http://localhost:8001
-
+```
 ### 2. Admin & Core Services (Backend)
 ```bash
 cd clothing-store
 npm install
 npm run start
 The admin dashboard will be available at http://localhost:9000.
+```
